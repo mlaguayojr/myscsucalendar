@@ -8,8 +8,8 @@ I got tired of having to manually create my school calendar in Google Calendar e
 1. Login with your bannerweb credentials.
 2. If the credentials are correct, then you will see recent semesters to download.
 3. Select the semester you wish to export to an iCalendar (ical file)
-  * If the semester does not have any classes, then a calendar will not be exported. (duh)
-  * If there are classes registered for that semester, then the program will auto download your calendar
+   * If the semester does not have any classes, then a calendar will not be exported. (duh)
+   * If there are classes registered for that semester, then the program will auto download your calendar
 4. Import your calendar to which ever program you use.
 
 # Notice
