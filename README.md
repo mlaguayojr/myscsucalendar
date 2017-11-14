@@ -15,7 +15,7 @@ I got tired of having to manually create my school calendar in Google Calendar e
 # Notice
 This will not:
 * store your credentials
-* Include any classes that have a time as "TBA" will not be included in your calendar.
+* Include any classes that have a time as "TBA"
 
 # Source Code
 Yes. I will provide the source code relatively soon. I want to update the site some more. (This was a project I worked on in my free time.)
